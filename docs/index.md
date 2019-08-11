@@ -1,4 +1,4 @@
-# Welcome to MkDocs Yeah!
+# Welcome to MkDocs MotherFuckers!
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
 
